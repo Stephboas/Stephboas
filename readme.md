@@ -1,31 +1,16 @@
-# Hello :wave:, I'm Sthephane
-I'm an aspiring full stack developer. I like programming and learning about different things.
-Hi, my name is Carlos, I'm an intermediate programmer who loves to contribute to open source, forums, social networks, etc.
-I like airplanes, the mathematics, the science, the computers, the forums, and a lot of things more.🧾💻
+# Hello:wave:, I'm Sthephane
+I'm an aspiring full stack developer who loves to learning about different things, contribute and programming of course.💻
 
-Currently do:
-⌨ || Improving my skills with HTMl, CSS and JavaScript.
-🎮 || Making Videogames
-I Work with:
-🎭Languages:
+🎭 I Work with:
  ```
- public class lovely {
-      
- ```
-     
-
-🎇Utilities:
-
+ import Developer from 'stephboas';
  
+  class Skilss extends Developer {
+  languages = ['Java', JavaScript];
+  database = ['postgreSQL', 'MongoDB', 'MySQL']
+ }
+ ```
 
-🏆Platforms I Use:
+:email: Contact:
 
-    
-
-Contact:
-
-Follow icode
-Stats:
-Encrypted github stats
-
-Top Langs
+[Linkedin](linkedin.com/in/sthephane-dev/)
