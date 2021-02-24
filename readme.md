@@ -6,7 +6,7 @@ I'm an aspiring full stack developer who loves to learning about different thing
  import Developer from 'stephboas';
  
   class Skilss extends Developer {
-  languages = ['Java', JavaScript];
+  languages = ['Java', 'JavaScript'];
   database = ['postgreSQL', 'MongoDB', 'MySQL']
  }
  ```
