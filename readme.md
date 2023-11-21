@@ -4,11 +4,26 @@ I'm an aspiring full stack developer who loves to learning about different thing
 🎭 I Work with:
  ```
  import Developer from 'stephboas';
- 
-  class Skilss extends Developer {
+
+class Skills extends Developer {
   languages = ['Java', 'JavaScript'];
-  database = ['postgreSQL', 'MongoDB', 'MySQL']
- }
+  frameworks = ['React', 'Vue.js'];
+  backend = ['Node.js'];
+  database = ['PostgreSQL', 'MongoDB', 'MySQL'];
+  tools = ['jQuery', 'Sass', 'Bootstrap'];
+
+  displaySkills() {
+    console.log(`Languages: ${this.languages.join(', ')}`);
+    console.log(`Frameworks: ${this.frameworks.join(', ')}`);
+    console.log(`Backend: ${this.backend.join(', ')}`);
+    console.log(`Database: ${this.database.join(', ')}`);
+    console.log(`Tools: ${this.tools.join(', ')}`);
+  }
+}
+
+const stephboas = new Skills();
+stephboas.displaySkills();
+
  ```
 
 :email: Contact:
